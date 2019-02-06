@@ -130,18 +130,118 @@ Sheet Example:
 
 Lets drag one of the sidewalk Measures into Rows
 
+
+![sheet 1](img/fremont/yearview.png "sheet1")
+
+
 Change to month
 
-Why Month/Date changes to Measure
-
-drag other sidewalk data in
+![sheet 1](img/fremont/changemonth.png "sheet1")
 
 
+You may notice that our data in the columns section now turned green(measure) Why Month/Date changes to Measure
+
+
+![sheet 1](img/fremont/sidewalkmonths.png "sheet1")
+
+So from here we can actually already start seeing some insights about our data!
+
+
+----
+
+### Challenge: 
+Even though we only have one of teh sidewalks in our data we can start looking at some data:
+
+What month has the lowest rides?
+What month has the highest amount of rides?
+Why do you think that is? Use you intuition!
+Do you think the other sidewalk data will be the same?
+
+
+----
+
+
+Lets drag our other sidewalk data in the `rows` section.
+
+
+![sheet 1](img/fremont/bothsidewalks.png "sheet1")
+
+
+Neat! We can see that they're similar looking, but slightly different!
+
+Now if we hover over our lines the toolip displays values from both sidewalks. Tableau is gussing we would want to compare them!
+
+
+
+![sheet 1](img/fremont/bothtoolip.png "sheet1")
+
+This is pretty cool! I think we can actually start getting a lot out of this!
+
+Lets make play around with different ways to visulize this data:
+
+
+Select side by side bar chart
+
+![sheet 1](img/fremont/sidebysidechart.png "sheet1")
+
+This actually isn't super terrible. We can see side by side how mnay rides there were for each month. 
+
+But lets make this even cleaner!
+
+Drag meausure names out of columns 
+
+![sheet 1](img/fremont/stacked.png "sheet1")
+
+This gives a stacked chart. This actually may be useful if we want to see the combined amount of rides but still see what the split was like visually. 
+
+It can still be a little hard to see how big the differenes are, lets make this a line chart. 
+
+
+Instead of clicking show me to change the chart, this time we are going to click under the `Marks` section and select `line`
+
+![sheet 1](img/fremont/line.png "sheet1")
+
+Now we can easily see the differences between each line (sidewalk).
+
+Before we end this project lets poke around in tableau a little more!
+
+Click on the `Analyitcs` tab right next to `Data`.
+
+![sheet 1](img/fremont/analytics.png "sheet1")
 
 
 
 
--------------
+
+### Challenge
+Click around on a few to explore different charts!
+Are some better than others for answering different questions?
+
+
+
+### Project Recap:
+- import CSV files (what do we select)? 
+- Measures vs dimensions (What are the differences?)
+- How do we change chart types?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Pronto Bikes Seattle
@@ -150,6 +250,12 @@ In a time before LimeBikes and Jump there was once a bike company called [Pronto
 Our job as a Data Analyist is to figure out how many trips were take each month, and how to easily visulize those trips. What does the Trend of the number of rides per month look like?
 
 
+
+
+
+
+
+	
 
 ### Importing Data (Pronto)
 
@@ -190,16 +296,6 @@ Think about some things we could get insights on. What colunms do you find the m
 
 
 ## Data Visualization
-
-
-
-
-
-
-
-
-
-
 
 
 
