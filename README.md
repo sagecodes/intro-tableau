@@ -76,10 +76,12 @@ The city of Seattle wants to know understand how many bikes are going accross th
 
 This project we will be using the [Fremont Bridge Data](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k)
 
+You can view step by step instructions of what we did [here](fremont-step-by-step.md)
+
 
 
 ### Project 2
-A bike company
+Lets pretend we own this bike company and we want to know what the trend is in riders. This should be a pretty fast analysis. Its similar to the last one
 
 - Pronto Bikes Seattle
 
