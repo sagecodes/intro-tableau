@@ -1,6 +1,8 @@
 ## Setup
 
-Install [Tableau Public](https://public.tableau.com/en-us/s/)
+- Install [Tableau Public](https://public.tableau.com/en-us/s/)
+- Download or clone the data in this repo.(shortcut:)
+- Navigate to this repo(the one you're looking at) to follow along and save for later(shortcut:)!
 
 
 
@@ -8,15 +10,19 @@ Install [Tableau Public](https://public.tableau.com/en-us/s/)
 
 ## What is Data Analytics
 
+A method of collecting information and telling a story with it to help make decisions. 
+
 ### Common Analytic tools 
 
 - Excel
-- sql
-- Data Visual tool (tableau, power BI)
+- SQL
+- Data Visualization tools (Tableau, PowerBI)
+
+##### And sometimes:
 - Python
+- R
 
-
-Story telling with data
+The Tools you use often depends on the company / clients you're working with.
 
 ## What is Tableau
 about tool
@@ -27,25 +33,27 @@ great for visualizing data and creating interactive dashboards.
 Usually used for its Drag and drop approach to making visualizing data easier.
 
 
-### Data Visuliation examples
+### Data Visuliation Examples with Tableau
 
 Lets take a further look at some of the things you can make with tableau!
 
-Checkout [tableau public Gallery](https://public.tableau.com/en-us/s/gallery) for a bunch of awesome examples. This is also where your tableau files will get saved when you use Tableau Public. To save locally you need to purchase a lisence or have an education lisecence version.
+Checkout [tableau public Gallery](https://public.tableau.com/en-us/s/gallery) for a bunch of awesome examples. This is also where your tableau files will get saved when you use Tableau Public. To save locally you need to purchase a lisence or have an education version.
 
 
-- Links
-- Links
-- Links
+- [Work usage in sacred texts](https://public.tableau.com/en-us/s/gallery/word-usage-sacred-texts?gallery=featured)
+- [Dam.Nation](https://public.tableau.com/en-us/s/gallery/dam-nation-state-of-us-dams?gallery=featured)
+- [G.O.A.T Music(turn volume down)](https://public.tableau.com/en-us/s/gallery/goat-music?gallery=featured)
+- [Wealth Shares USA](https://public.tableau.com/en-us/s/gallery/wealth-inequality-us?gallery=featured)
+- [Graffiti removal](https://public.tableau.com/en-us/s/gallery/graffiti-chicago?gallery=featured)
+- [Malaria Deaths](https://public.tableau.com/en-us/s/gallery/malaria-africa?gallery=featured)
 
+After the class make sure you explore more charts to get inspired, and see the full functionality of tableau!
 
 Notice how not only are the visuals great, but there are a lot of opportunities to be interactive with the data! This is super useful to give to teams or clients who want to be able to explore more on there own easily. 
 
 Tableau can be incredbly powerful! And can be a super useful tool to have in your toolset as a Data Analyst, Busniess Intellgence Analyst, or Data Scientist. 
 
 Keep in mind that this is just an intro course and we will only be scratching the surface what tableau is capable of. If you find it interesting keep learning! 
-
-Tableau has some great tutorials on their site
 
 We have a part time Data Analytics class! you'll cover data analytics with Excel, SQL, and Tableau. The course also includes our Career Services support to help find a job. 
 
@@ -56,18 +64,40 @@ For the next hour or so we're going to be Data Analysts!
 
 We have three clients that want answers about their data. 
 
-We're going to look at 3 different datasets, and answer questions about them.
+We're going to look at 4 different datasets, and answer questions about them.
+
+Tip: For these workshop we will be using data thats already in a good formatted, but when working with clients in the feild be prepared to do a lot of data cleaning / reformattig!
+
+
+
+### Project 1
 
 The city of Seattle wants to know understand how many bikes are going accross the Fremont Brige. And what time of the year is most popular. Can possbly shed some insight on why?
 
-This project we will be using the [Fremont Bridge Data]()
+This project we will be using the [Fremont Bridge Data](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k)
 
-https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k
 
+
+### Project 2
 A bike company
 
 - Pronto Bikes Seattle
+
+https://data.seattle.gov/Community/Pronto-Cycle-Share-Trip-Data/tw7j-dfaw
+
+
+### Project 3
 - Seattle Pet License
+
+https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb
+
+### Project 4
+
+Titanic. 
+
+Lets break away from Seattle and look at the data from the titanic!
+
+
 
 
 
@@ -119,8 +149,12 @@ There are a lot of things going on here, lets may attention two parts right now:
 
 
 - Data
-- - Dimension 
-- - Measure
+- - Dimension = Independant variable
+- - Measure = Dependant variable
+
+Measures can be grouped by Dimensions
+
+Bike rides grouped by Month
 
 ![sheet 1](img/fremont/data.png "sheet1")
 
@@ -150,7 +184,7 @@ So from here we can actually already start seeing some insights about our data!
 ----
 
 ### Challenge: 
-Even though we only have one of teh sidewalks in our data we can start looking at some data:
+Even though we only have one of the sidewalks in our data we can start looking at some data:
 
 What month has the lowest rides?
 What month has the highest amount of rides?
@@ -243,14 +277,13 @@ Are some better than others for answering different questions?
 
 
 
-
 ## Pronto Bikes Seattle
+
+Seattle loves bike data! Lets use a lot of what we just learned in the previous section and do a quick analysis on this data!
+
 In a time before LimeBikes and Jump there was once a bike company called [Pronto](https://en.wikipedia.org/wiki/Pronto_Cycle_Share) that inhabited Seattle. 
 
 Our job as a Data Analyist is to figure out how many trips were take each month, and how to easily visulize those trips. What does the Trend of the number of rides per month look like?
-
-
-
 
 
 
@@ -261,24 +294,15 @@ Our job as a Data Analyist is to figure out how many trips were take each month,
 
 First we will need to import data. 
 
-About data types
 
-Multiple sources
-
-You can can import multiple resources and make a join. We will go into this later. But for now lets look at our one dataset on Seattle Pets
-
-Bring in a source of data:
-
-- Select what type of data. In this case its excel(xls)
+Select what type of data. In this case its Microsoft Excel(xls)
 
 
 #### Explore your data (Pronto)
 
 Know your data! before going too far into visulizing or manipulating data its helpful to try to understand whats going on in your data. What are the columns? Is the data in a good format?
 
-Tip: For this workshop we will be using data thats already in a good formatted, but when working with clients in the feild be prepared to do a lot of data cleaning / reformattig!
-
-##### explore inside Tableau ((Pronto)
+##### explore inside Tableau (Pronto)
 
 We can look at our data directly inside tableau
 
@@ -295,14 +319,6 @@ Think about some things we could get insights on. What colunms do you find the m
 ------
 
 
-## Data Visualization
-
-
-
-
-
-## Fremonth Bridge Bike data
-[https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k]()
 
 
 
@@ -324,18 +340,11 @@ fire data?
 
 
 
-## Data 
+[Road weather](https://data.seattle.gov/Transportation/Road-Weather-Information-Stations/egc4-d24i)
 
-### Splitting Data
+## Keep Learning!
 
-### Manipulating Data
-
-###  Creating Groups and Creating hierarchies for data
-
-
-
-# Challenges (Keep Learning)!
-
+[Data Science Prep](https://www.galvanize.com/data-science/prep)
 
 
 ## Upcoming Events!
