@@ -81,17 +81,17 @@ Launch Tableau!
 
 The type of file is a Comma Seperated Value(CSV) Format. To open this in tableau under connect click `Text file`
 
-![Connect CSV file](img/fremont/fremont_connect.png " "Connect CSV file")
+![Connect CSV file](img/fremont/fremont_connect.png "Connect CSV file")
 
 
 Navigate to where you saved the data file. And click open
 
-![Connect CSV file](img/fremont/opendatafile.png " "Connect CSV file")
+![Connect CSV file](img/fremont/opendatafile.png "Connect CSV file")
 
 
 You should now see a screen similar to this:
 
-![Connect CSV file](img/fremont/datasource.png " "Connect CSV file")
+![Connect CSV file](img/fremont/datasource.png "Connect CSV file")
 
 
 Notice the data in the bottom half of the screen that looks like an excel sheet. This is a good opportinuty to explore our data a bit before going further with the visualization.
@@ -104,11 +104,11 @@ We can see this dataset is failr simple. It only contains three columns.
 
 After we're done looking at our data lets click on the `sheet 1` near the bottom left
 
-![sheet 1](img/fremont/sheet1.png " "sheet1")
+![sheet 1](img/fremont/sheet1.png "sheet1")
 
 You should see a screen like this:
 
-![sheet 1](img/fremont/sheet.png " "sheet1")
+![sheet 1](img/fremont/sheet.png "sheet1")
 
 
 There are a lot of things going on here, lets may attention two parts right now:
@@ -119,6 +119,22 @@ There are a lot of things going on here, lets may attention two parts right now:
 
 
 - Data
+- - Dimension 
+- - Measure
+
+![sheet 1](img/fremont/data.png "sheet1")
+
+Since we know we want to visualize by month lets drag `Date` data into the columns section. If you've used excel to make charts before this probably makes sense, usually you can think of columns as going left to right. Rows usually are going from top to bottom.
+
+Sheet Example:
+
+Lets drag one of the sidewalk Measures into Rows
+
+Change to month
+
+Why Month/Date changes to Measure
+
+drag other sidewalk data in
 
 
 
