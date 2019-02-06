@@ -62,12 +62,70 @@ The city of Seattle wants to know understand how many bikes are going accross th
 
 This project we will be using the [Fremont Bridge Data]()
 
+https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k
+
 A bike company
 
 - Pronto Bikes Seattle
-
-
 - Seattle Pet License
+
+
+
+## Fremont Bridge
+
+Thanks to [Seattle Open Data](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k) we can get the fremont Bride data set.
+
+Launch Tableau!
+
+### Connect to Data Source (Fremont)
+
+The type of file is a Comma Seperated Value(CSV) Format. To open this in tableau under connect click `Text file`
+
+![Connect CSV file](img/fremont/fremont_connect.png " "Connect CSV file")
+
+
+Navigate to where you saved the data file. And click open
+
+![Connect CSV file](img/fremont/opendatafile.png " "Connect CSV file")
+
+
+You should now see a screen similar to this:
+
+![Connect CSV file](img/fremont/datasource.png " "Connect CSV file")
+
+
+Notice the data in the bottom half of the screen that looks like an excel sheet. This is a good opportinuty to explore our data a bit before going further with the visualization.
+
+We can see this dataset is failr simple. It only contains three columns. 
+
+- The date and hour
+- Number of bikes on East sidewalk
+- Number of bikes on the west Sidewalk
+
+After we're done looking at our data lets click on the `sheet 1` near the bottom left
+
+![sheet 1](img/fremont/sheet1.png " "sheet1")
+
+You should see a screen like this:
+
+![sheet 1](img/fremont/sheet.png " "sheet1")
+
+
+There are a lot of things going on here, lets may attention two parts right now:
+
+- Columns and Rows
+
+![sheet 1](img/fremont/colrows.png "sheet1")
+
+
+- Data
+
+
+
+
+
+
+-------------
 
 
 ## Pronto Bikes Seattle
