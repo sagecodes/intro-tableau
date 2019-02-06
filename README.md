@@ -1,3 +1,9 @@
+## Setup
+
+Install [Tableau Public](https://public.tableau.com/en-us/s/)
+
+
+
 
 
 ## WHat is Data Analytics
@@ -15,11 +21,18 @@ Story telling with data
 ## What is Tableau
 about tool
 
+great for visualizing data and creating interactive dashboards.
+
 Fast Visual Demo?
+
+Usually used for its Drag and drop approach to making visualizing data easier.
+
 
 ### Data Visuliation examples
 
 Lets take a further look at some of the things you can make with tableau!
+
+Checkout [tableau public Gallery](https://public.tableau.com/en-us/s/gallery) for a bunch of awesome examples. This is also where your tableau files will get saved when you use Tableau Public. To save locally you need to purchase a lisence or have an education lisecence version.
 
 
 - Links
