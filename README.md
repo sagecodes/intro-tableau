@@ -74,10 +74,10 @@ Give a quick Intro!
 
 A method of collecting information and *telling a story* with it to help make decisions. 
 
-The data analyitcs role varies greatly from company to company but a lot of the core skillset is the same / very similar!
+The data analytics role varies greatly from company to company but a lot of the core skillset is the same / very similar!
 
 
-### Who uses Data Analyitcs
+### Who uses Data Analytics
 
 Probably ANY modern company.
 
@@ -100,11 +100,11 @@ Tableau is great for visualizing data and creating interactive dashboards.
 Usually used for its Drag and drop approach to making visualizing data easier.
 
 
-### Data Visuliation Examples with Tableau
+### Data Visualization Examples with Tableau
 
 Lets take a further look at some of the things you can make with tableau!
 
-Checkout [tableau public Gallery](https://public.tableau.com/en-us/s/gallery) for a bunch of awesome examples. This is also where your tableau files will get saved when you use Tableau Public. To save locally you need to purchase a lisence or have an education version.
+Checkout [tableau public Gallery](https://public.tableau.com/en-us/s/gallery) for a bunch of awesome examples. This is also where your tableau files will get saved when you use Tableau Public. To save locally you need to purchase a license or have an education version.
 
 
 - [Work usage in sacred texts](https://public.tableau.com/en-us/s/gallery/word-usage-sacred-texts?gallery=featured)
@@ -118,7 +118,7 @@ After the class make sure you explore more charts to get inspired, and see the f
 
 Notice how not only are the visuals great, but there are a lot of opportunities to be interactive with the data! This is super useful to give to teams or clients who want to be able to explore more on there own easily. 
 
-Tableau can be incredbly powerful! And can be a super useful tool to have in your toolset as a Data Analyst, Busniess Intellgence Analyst, or Data Scientist. 
+Tableau can be incredibly powerful! And can be a super useful tool to have in your toolset as a Data Analyst, Business Intelligence Analyst, or Data Scientist. 
 
 Keep in mind that this is just an intro course and we will only be scratching the surface what tableau is capable of. If you find it interesting keep learning! 
 
@@ -133,13 +133,13 @@ We have three clients that want answers about their data.
 
 We're going to look at 3 different datasets, and answer questions about them.
 
-Tip: For these workshop we will be using data thats already in a good formatted, but when working with clients in the feild be prepared to do a lot of data cleaning / reformattig!
+Tip: For these workshop we will be using data thats already in a good formatted, but when working with clients in the field be prepared to do a lot of data cleaning / reformatting!
 
 
 
 ### Project 1
 
-The city of Seattle wants to know understand how many bikes are going accross the Fremont Brige. And what time of the year is most popular. Can possbly shed some insight on why?
+The city of Seattle wants to know understand how many bikes are going across the Fremont Bridge. And what time of the year is most popular. Can possibly shed some insight on why?
 
 This project we will be using the [Fremont Bridge Data](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k)
 
@@ -195,7 +195,7 @@ Find the Completed Project [here](https://public.tableau.com/profile/sage.elliot
 [Free Galvanize Data Science Prep](https://www.galvanize.com/data-science/prep)
 [Free Software Engineering Prep](https://www.galvanize.com/web-development/prep)
 
-Go through [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery) and try to recreate visulizations. You can download the workbooks and reverse engineer them!
+Go through [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery) and try to recreate visualizations. You can download the workbooks and reverse engineer them!
 
 ## Upcoming Events!
 

@@ -4,7 +4,7 @@ Seattle loves bike data! Lets use a lot of what we just learned in the previous 
 
 In a time before LimeBikes and Jump there was once a bike company called [Pronto](https://en.wikipedia.org/wiki/Pronto_Cycle_Share) that inhabited Seattle. 
 
-Our job as a Data Analyist is to figure out how many trips were take each month, and how to easily visulize those trips. What does the Trend of the number of rides per month look like?
+Our job as a Data Analyst is to figure out how many trips were take each month, and how to easily visualize those trips. What does the Trend of the number of rides per month look like?
 
 
 ### Importing Data (Pronto)
@@ -15,7 +15,7 @@ Select what type of data. In this case its Microsoft Excel(xls)
 
 ![sheet 1](img/pronto/pronto-connect.png "sheet1")
 
-Navigate to where you saved the data and open the pronto-trp file
+Navigate to where you saved the data and open the pronto-trip file
 
 ![sheet 1](img/pronto/trip.png "sheet1")
 
@@ -23,7 +23,7 @@ Navigate to where you saved the data and open the pronto-trp file
 
 #### Explore your data (Pronto)
 
-Know your data! Just like before, lets look at our data before going into visulizing our data.
+Know your data! Just like before, lets look at our data before going into visualizing our data.
 
 ![sheet 1](img/pronto/knowdata.png "sheet1")
 
@@ -32,7 +32,7 @@ Know your data! Just like before, lets look at our data before going into visuli
 #### Get to know your data!
 
 Using the method described above, take a look at your data.
-Think about some things we could get insights on. What colunms do you find the most interesting?
+Think about some things we could get insights on. What columns do you find the most interesting?
 
 ------
 
@@ -45,7 +45,7 @@ The work area should be similar to this:
 
 ![sheet 1](img/pronto/work.png "sheet1")
 
-Lets drag in `nuumber of records`. Since each record is one ride we can use this number for total rides. 
+Lets drag in `number of records`. Since each record is one ride we can use this number for total rides. 
 
 
 ![sheet 1](img/pronto/records.png "sheet1")
@@ -78,7 +78,7 @@ Now lets drag `Month of trip` into the columns section.
 
 ![sheet 1](img/pronto/bar.png "sheet1")
 
-We can kind of see the tren from looking at the bar charts, but usually looking at a trend is better with a line
+We can kind of see the trend from looking at the bar charts, but usually looking at a trend is better with a line
 
 lets change that in our mark area. 
 
@@ -93,4 +93,4 @@ Cool! We can pretty clearly see the trend going down here!
 
 - Calculated Fields (how do make them)?
 - - What can we do with them?
-- What do we slelect to import an excel sheet?
+- What do we select to import an excel sheet?

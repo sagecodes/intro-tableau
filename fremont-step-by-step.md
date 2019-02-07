@@ -5,7 +5,7 @@ Launch Tableau!
 
 ### Connect to Data Source (Fremont)
 
-The type of file is a Comma Seperated Value(CSV) Format. To open this in tableau under connect click `Text file`
+The type of file is a Comma Separated Value(CSV) Format. To open this in tableau under connect click `Text file`
 
 ![Connect CSV file](img/fremont/fremont_connect.png "Connect CSV file")
 
@@ -20,9 +20,9 @@ You should now see a screen similar to this:
 ![Connect CSV file](img/fremont/datasource.png "Connect CSV file")
 
 
-Notice the data in the bottom half of the screen that looks like an excel sheet. This is a good opportinuty to explore our data a bit before going further with the visualization.
+Notice the data in the bottom half of the screen that looks like an excel sheet. This is a good opportunity to explore our data a bit before going further with the visualization.
 
-We can see this dataset is failr simple. It only contains three columns. 
+We can see this dataset is fair simple. It only contains three columns. 
 
 - The date and hour
 - Number of bikes on East sidewalk
@@ -45,8 +45,8 @@ There are a lot of things going on here, lets may attention two parts right now:
 
 
 - Data
-- - Dimension = Independant variable
-- - Measure = Dependant variable
+- - Dimension = Independent variable
+- - Measure = Dependent variable
 
 Measures can be grouped by Dimensions
 
@@ -99,7 +99,7 @@ Lets drag our other sidewalk data in the `rows` section.
 
 Neat! We can see that they're similar looking, but slightly different!
 
-Now if we hover over our lines the toolip displays values from both sidewalks. Tableau is gussing we would want to compare them!
+Now if we hover over our lines the tulip displays values from both sidewalks. Tableau is gussguessinging we would want to compare them!
 
 
 
@@ -107,24 +107,24 @@ Now if we hover over our lines the toolip displays values from both sidewalks. T
 
 This is pretty cool! I think we can actually start getting a lot out of this!
 
-Lets make play around with different ways to visulize this data:
+Lets make play around with different ways to visualize this data:
 
 
 Select side by side bar chart
 
 ![sheet 1](img/fremont/sidebysidechart.png "sheet1")
 
-This actually isn't super terrible. We can see side by side how mnay rides there were for each month. 
+This actually isn't super terrible. We can see side by side how many rides there were for each month. 
 
 But lets make this even cleaner!
 
-Drag meausure names out of columns 
+Drag measure names out of columns 
 
 ![sheet 1](img/fremont/stacked.png "sheet1")
 
 This gives a stacked chart. This actually may be useful if we want to see the combined amount of rides but still see what the split was like visually. 
 
-It can still be a little hard to see how big the differenes are, lets make this a line chart. 
+It can still be a little hard to see how big the differences are, lets make this a line chart. 
 
 
 Instead of clicking show me to change the chart, this time we are going to click under the `Marks` section and select `line`
@@ -135,7 +135,7 @@ Now we can easily see the differences between each line (sidewalk).
 
 Before we end this project lets poke around in tableau a little more!
 
-Click on the `Analyitcs` tab right next to `Data`.
+Click on the `Analytics` tab right next to `Data`.
 
 ![sheet 1](img/fremont/analytics.png "sheet1")
 

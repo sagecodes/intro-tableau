@@ -18,7 +18,7 @@ Navigate to where you saved the data and open the titanic file
 
 #### Explore your data (Pronto)
 
-Know your data! Just like before, lets look at our data before going into visulizing our data.
+Know your data! Just like before, lets look at our data before going into visualizing our data.
 
 ![sheet 1](img/pronto/knowdata.png "sheet1")
 
@@ -36,12 +36,12 @@ This time we're going to use multiple sheets, so lets rename our `sheet1 `. We'r
 
 For this sheet we want to make a map!!!
 
-Lets move Lets move `latitude` and `logitude` into dimensions. If we don't put them in dimensions it should actually still work in this example, but tableau will be trying to do a calulation on them. `AVG(latitude)`.
+Lets move Lets move `latitude` and `longitude` into dimensions. If we don't put them in dimensions it should actually still work in this example, but tableau will be trying to do a calculation on them. `AVG(latitude)`.
 
 
 Lets populate our map!
 
-- Drag `Logitude` into the columns sections
+- Drag `Longitude` into the columns sections
 
 - Drag `Latitude` into the Rows Sections 
 
@@ -98,13 +98,13 @@ This is a cool break down showing the amount leaving from each city and how peop
 Make a new sheet and call it `Deaths`
 
 - Drag `Pclass` into columns
-- Drag `Dead or Alive`	iinto columns
+- Drag `Dead or Alive`	into columns
 - Drag `Number of Records` to Rows(make sure is is SUM).
 - Drag `Pclass` into color marks
 
 That was fast!
 
-I hope you're begining to see how fast tableau can be!
+I hope you're beginning to see how fast tableau can be!
 
 ![sheet 1](img/titanic/deaths.png "sheet1")
 
@@ -138,7 +138,7 @@ Drag in the remaining sheet
 ![sheet 1](img/titanic/fullstory.png "sheet1")
 
 
-Toggle on highlighting slection
+Toggle on highlighting selection
 
 
 ![sheet 1](img/titanic/toggle.png "sheet1")
