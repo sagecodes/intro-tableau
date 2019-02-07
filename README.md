@@ -135,6 +135,7 @@ We're going to look at 3 different datasets, and answer questions about them.
 
 Tip: For these workshop we will be using data thats already in a good formatted, but when working with clients in the field be prepared to do a lot of data cleaning / reformatting!
 
+I also put together step by step instructions for each project here. I know its hard to remember everything in a workshop. So make sure you save the page if you want to come back to it later! I'll also be adding more updates later this month. 
 
 
 ### Project 1
@@ -145,7 +146,7 @@ This project we will be using the [Fremont Bridge Data](https://data.seattle.gov
 
 You can view step by step instructions of what we did [here](fremont-step-by-step.md)
 
-Find the Completed Project [here]().
+Find the Completed Project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/FremontBridge_0/Sheet1?publish=yes).
 
 
 
@@ -180,30 +181,37 @@ Find the Completed Project [here]().-->
 
 Lets break away from Seattle data and look at the data from the Titanic.
 
+This time we want to make a dashboard looking at several aspects of the titanic. 
+
+- Where did people embark froom?
+- How many people embarked from each place and what class were they?
+- How did the death rate compare between classes?
 
 Find the step by step instructions [here](titanic-step-by-step.md).
 
-
 Find the Completed Project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/Titanic_671/FullStory).
-
-
 
 
 
 ## Keep Learning!
 
 [Free Galvanize Data Science Prep](https://www.galvanize.com/data-science/prep)
+
 [Free Software Engineering Prep](https://www.galvanize.com/web-development/prep)
 
 Go through [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery) and try to recreate visualizations. You can download the workbooks and reverse engineer them!
+
+Real Projects! Nothing is better than a real worl project to work on! Keep in mind that with Tableau public your data is on the web!
+
+Seattle has an awesome amount of data available at https://data.seattle.gov/ See whats going on in Seattle!
+
+Let me know you built or if you need help with anything!
 
 ## Upcoming Events!
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
-
-
 
 
 ## What is Galvanize?
