@@ -99,7 +99,7 @@ Seattle loves its bike data! Lets pretend we own this bike company and we want t
 
 https://data.seattle.gov/Community/Pronto-Cycle-Share-Trip-Data/tw7j-dfaw
 
-Find the Completed Project [here](pronto-step-by-step.md).
+Find the step by step instructions [here](pronto-step-by-step.md).
 
 Find the Complete project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/ProntoBikes/Sheet1)
 
@@ -112,20 +112,21 @@ Find the Complete project [here](https://public.tableau.com/profile/sage.elliott
 
 https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb
 
-Find the Completed Project [here](pet-step-by-step.md).
+Find the step by step instructions [here](pet-step-by-step.md).
 
+Find the Completed Project [here]().
 
 
 ### Project 4
 
-Titanic. 
 
-Lets break away from Seattle data and look at the data from the titanic.
-
-
-Find the Completed Project [here](titanic-step-by-step.md).
+Lets break away from Seattle data and look at the data from the Titanic.
 
 
+Find the step by step instructions [here](titanic-step-by-step.md).
+
+
+Find the Completed Project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/Titanic_671/FullStory).
 
 
 
@@ -523,21 +524,47 @@ That was fast!
 
 I hope you're begining to see how fast tableau can be!
 
-### Dashboard
-
-
 ![sheet 1](img/titanic/deaths.png "sheet1")
 
+### Dashboard
+
+Dashboards are a place we can combine multiple sheets and charts in one place to tell a larger story!
 
 
-Create a dashboard!
+Create a new dashboard. 
+
+![sheet 1](img/titanic/dash.png "sheet1")
+
+Lets call it `FullStory`
 
 
+from the listed sheets Drag in `Embarkment` and `EmbarkCount`.
+
+![sheet 1](img/titanic/dashsheets.png "sheet1")
+
+
+It looks a little squished. Lets adjust the size of our dashboard.
+
+![sheet 1](img/titanic/size.png "sheet1")
+
+Lets put `1000` for now.
+
+
+Drag in the remaining sheet
+
+
+![sheet 1](img/titanic/fullstory.png "sheet1")
+
+
+Toggle on highlighting slection
+
+
+![sheet 1](img/titanic/toggle.png "sheet1")
 
 ### Project Recap:
 
 - What is a Dashboard?
-- How can we add filters to sheets or dashboards
+
 
 
 
