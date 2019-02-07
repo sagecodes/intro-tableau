@@ -3,13 +3,17 @@
 ### Setup
 
 - Install [Tableau Public](https://public.tableau.com/en-us/s/)
-- Download or clone the data in this repo.(shortcut:)
-- Navigate to this repo(the one you're looking at) to follow along and save for later(shortcut:)!
+
+- Download or clone the data in this [repo](https://github.com/sagecodes/tableau-datasets)(shortcut:)
+
+- Navigate to this [repo](https://github.com/sagecodes/tableau-datasets)(the one you're looking at) to follow along and save for later(shortcut:)!
 
 ### FAQ
 
-- s
-- s
+- Wifi: Look for password on walls
+- Bathrooms: Behind you down the hall to the left
+- Kitchen outside back classroom door with Coffee & Tea!
+- Snacks + water in back of room
 
 What this workshop is
 
@@ -73,7 +77,7 @@ For the next hour or so we're going to be Data Analysts!
 
 We have three clients that want answers about their data. 
 
-We're going to look at 4 different datasets, and answer questions about them.
+We're going to look at 3 different datasets, and answer questions about them.
 
 Tip: For these workshop we will be using data thats already in a good formatted, but when working with clients in the feild be prepared to do a lot of data cleaning / reformattig!
 
@@ -104,7 +108,7 @@ Find the step by step instructions [here](pronto-step-by-step.md).
 Find the Complete project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/ProntoBikes/Sheet1)
 
 
-### Project 3
+<!--### Project 3
 
 
 
@@ -114,10 +118,10 @@ https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb
 
 Find the step by step instructions [here](pet-step-by-step.md).
 
-Find the Completed Project [here]().
+Find the Completed Project [here]().-->
 
 
-### Project 4
+### Project 3
 
 
 Lets break away from Seattle data and look at the data from the Titanic.
