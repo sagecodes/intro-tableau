@@ -132,8 +132,6 @@ Find the Completed Project [here](https://public.tableau.com/profile/sage.elliot
 
 ## Fremont Bridge
 
-<!--You can view step by step instructions with pictures of what we're going to do [here](fremont-step-by-step.md).-->
-
 Launch Tableau!
 
 

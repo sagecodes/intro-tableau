@@ -1,8 +1,7 @@
-## Fremont Bridge Step by Step
-
-Thanks to [Seattle Open Data](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k) we can get the fremont Bride data set.
+## Fremont Bridge Data Project
 
 Launch Tableau!
+
 
 ### Connect to Data Source (Fremont)
 
@@ -139,3 +138,18 @@ Before we end this project lets poke around in tableau a little more!
 Click on the `Analyitcs` tab right next to `Data`.
 
 ![sheet 1](img/fremont/analytics.png "sheet1")
+
+
+
+
+
+### Challenge
+Click around on a few to explore different charts!
+Are some better than others for answering different questions?
+
+
+### Project Recap:
+- import CSV files (what do we select)? 
+- Measures vs dimensions (What are the differences?)
+- How do we change chart types?
+
