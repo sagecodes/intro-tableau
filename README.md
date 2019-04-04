@@ -21,14 +21,21 @@ I'll walk through these before we get started! The main thing is to make sure yo
 
 ### Relevant upcoming events or class
 
-- [Data Analytics Part time Class](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
+- [Data Analytics Part time Class](https://www.galvanize.com/part-time/data-analytics) 5/6/19 - 7/24/19
+
+- Start learning Data Science with our FREE online prep course!
+Premium option is free if you sign up today! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU) 
+
+- Start learning Software Engineering with our FREE online prep course!
+[http://bit.ly/gsoftprep](http://bit.ly/gsoftprep)
+
 
 
 ## What this workshop is
 
 A super friendly introduction to Tableau No previous experience expected.
 
-You can't learn EVERYTHING in under 2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! 
+You certainly can't learn EVERYTHING in under 2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! 
 
 - This course is for absolute beginners
 - Ask Questions!
@@ -195,9 +202,12 @@ Find the Completed Project [here](https://public.tableau.com/profile/sage.elliot
 
 ## Keep Learning!
 
-[Free Galvanize Data Science Prep](https://www.galvanize.com/data-science/prep)
+Start learning Data Science with our FREE online prep course!
+Premium option is free if you sign up today! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
 
-[Free Software Engineering Prep](https://www.galvanize.com/web-development/prep)
+- Start learning Software Engineering with our FREE online prep course!
+[http://bit.ly/gsoftprep](http://bit.ly/gsoftprep)
+
 
 Go through [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery) and try to recreate visualizations. You can download the workbooks and reverse engineer them!
 
@@ -208,32 +218,32 @@ Seattle has an awesome amount of data available at https://data.seattle.gov/ See
 Let me know you built or if you need help with anything!
 
 ## Upcoming Events!
+We host many events! check out out our [meetup](https://www.meetup.com/Learn-Code-Seattle/events/) to stay up to date.
 
-We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+- JavaScript Mini Bootcamp: Fundamentals I - 4/13 10am - 4:30pm
+- JavaScript 101 - 4/17 6:30 - 8:30pm
+- Intro to Programming with Python - 4/11 - 6:30 - 8:30pm
+- JavaScript Mini Bootcamp: Fundamentals I - 4/13 10am - 4:30pm
+- Intro to Data Science with Python - 4/18 6:30 - 8:30pm
 
 
 ## What is Galvanize?
-###### We are a community!
-
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
+- [Software Engineer](https://www.galvanize.com/web-development) - 4/8/19 - 7/5/19
+- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 5/13/19 - 6/7/19
+- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) - 5/6/19 - 7/24/19
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
-
-#### We are a community
 
 ## Questions
 
@@ -244,7 +254,4 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
-
-
 
