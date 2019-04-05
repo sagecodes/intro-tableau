@@ -143,7 +143,5 @@ Toggle on highlighting selection
 
 ![sheet 1](img/titanic/toggle.png "sheet1")
 
-### Project Recap:
-
-- What is a Dashboard?
+### Lets make a story! 
 
