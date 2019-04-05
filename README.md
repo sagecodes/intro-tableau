@@ -202,7 +202,7 @@ Find the Completed Project [here](https://public.tableau.com/profile/sage.elliot
 
 ## Keep Learning!
 
-Start learning Data Science with our FREE online prep course!
+- Start learning Data Science with our FREE online prep course!
 Premium option is free if you sign up today! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
 
 - Start learning Software Engineering with our FREE online prep course!

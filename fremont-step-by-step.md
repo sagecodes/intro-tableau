@@ -48,6 +48,8 @@ There are a lot of things going on here, lets may attention two parts right now:
 - - Dimension = Independent variable
 - - Measure = Dependent variable
 
+No worries if the differences don't click yet! But you can read more about them [here](https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
+
 Measures can be grouped by Dimensions
 
 Bike rides grouped by Month
@@ -69,7 +71,6 @@ Change to month
 ![sheet 1](img/fremont/changemonth.png "sheet1")
 
 
-You may notice that our data in the columns section now turned green(measure) Why Month/Date changes to Measure
 
 
 ![sheet 1](img/fremont/sidewalkmonths.png "sheet1")
@@ -99,7 +100,7 @@ Lets drag our other sidewalk data in the `rows` section.
 
 Neat! We can see that they're similar looking, but slightly different!
 
-Now if we hover over our lines the tulip displays values from both sidewalks. Tableau is gussguessinging we would want to compare them!
+Now if we hover over our lines the tulip displays values from both sidewalks. Tableau is guessing we would want to compare them!
 
 
 
